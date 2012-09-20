@@ -22,5 +22,5 @@ class RationalNumber
 		RationalNumber operator/(const long l1, const RationalNumber &r2);
 	private:
 		void simself(void);
-
+};
 #endif

@@ -21,4 +21,3 @@ RationalNumber RationalNumber::operator+(const long l1, const RationalNumber &r2
 RationalNumber RationalNumber::operator-(const long l1, const RationalNumber &r2);
 RationalNumber RationalNumber::operator*(const long l1, const RationalNumber &r2);
 RationalNumber RationalNumber::operator/(const long l1, const RationalNumber &r2);
-void RationalNumber::
